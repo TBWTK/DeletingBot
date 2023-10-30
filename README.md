@@ -15,8 +15,21 @@
 <h3>
   Телеграмм бот для удаления системных сообщений в чате телеграмм
  </h3>
-<p>
+<h5>
     Telegram bot for deleting system messages in telegram chat
+</h5>
+
+<p>
+    Для использования телеграмм бота:
+</p>
+<ul>
+    <li>Добавьте файл .env в директорию tg_bot</li>
+    <li>Создайте внутри этого файла переменную <b>TOKEN</b></li>
+    <li>В переменную <b>TOKEN</b> запишите свой ключ телеграмм</li>
+</ul>
+
+<p>
+    TOKEN="your_token"
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-TBWTK)
